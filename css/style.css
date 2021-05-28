@@ -1,0 +1,43 @@
+
+body{
+	background-color: black;
+}
+
+.c_pre, .c_next {
+    top: 80%;
+    width: 10%;
+}
+.carousel_c [data-bs-target] {
+    margin-bottom: 20px;
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    border: 1px solid #0a0a0a17;
+    border-radius: 10px;
+    display: block;
+}
+.carousel_c {
+	margin-left: 3%;
+	bottom: 40%;
+}
+.c_cap_custom {
+    left: 10%;
+    right: 50%;
+    bottom: 5.25rem;
+    text-align: start;
+}
+
+.off_c_link_custom:hover{
+	border-bottom: 1px solid #6c757dd9;
+}
+/*.carousel_c {
+	margin-left: 0%;
+	right: 70%;
+    bottom: 60%;
+}
+.carousel_c button {
+	width: 15px !important;
+    height:15px !important;
+}*/
+
+
